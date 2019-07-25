@@ -1,0 +1,8 @@
+{
+  "version": "1.0.6.0",
+  "exeFile": "SpriteFtpClient.exe",
+  "processName": "SpriteFtpClient",
+  "md5": "",
+  "updateHost": "172.16.70.236:8021",
+  "updateFiles": [ "SpriteFtpClient.exe", "SpriteFtpClient.pdb","update.json" ]
+}
